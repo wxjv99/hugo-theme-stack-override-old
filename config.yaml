@@ -1,0 +1,14 @@
+module:
+    hugoVersion:
+        extended: true
+        min: "0.87.0"
+
+params:
+    footer:
+        record:
+            icp:
+                code:
+                text:
+            psb:
+                code:
+                text:
